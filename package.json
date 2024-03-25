@@ -17,7 +17,7 @@
     "badgekit-api-client": "https://github.com/mozilla/badgekit-api-client/tarball/v0.2.2",
     "commander": "2.0.x",
     "csv": "0.3.x",
-    "express": "3.4.5",
+    "express": "4.19.2",
     "habitat": "0.4.1",
     "hatchet": "0.1.0",
     "helmet": "0.1.2",
